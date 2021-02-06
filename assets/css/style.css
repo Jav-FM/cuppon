@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img{
+    width: 6rem;
+    height: auto;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h5 {
+    font-weight: 300;
+    font-size: 20px;
+    text-align: left;
+    color: #000000;
+}
+
+#card-text-medium {
+    font-weight: 300;
+    font-size: 16px;
+    text-align: left;
+    color: #707070;
+}
+
+#card-text-small {
+    font-weight: 300;
+    font-size: 13px;
+    text-align: left;
+    line-height: 1em;
+    color: #707070;
+}
+
+.card-link-one {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.card-link-two {
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#formulario{
+    background-color: #28A745;
+}
+
+footer {
+    background-color: #FFFFFF;
+}
+
+footer img {
+    width: 6rem;
+}
+
+footer p {
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+    color: #707070;
+}
